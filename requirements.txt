@@ -5,6 +5,5 @@ tpot
 streamlit
 matplotlib
 tensorflow
-math
 datetime
 pandas_datareader
