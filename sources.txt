@@ -1,0 +1,24 @@
+subset of dataframe: https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
+rename dataframe: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html
+logistic regression video: https://www.youtube.com/watch?v=X9jjyh0p7x8
+logistic regression summary: https://www.techtarget.com/searchbusinessanalytics/definition/logistic-regression#:~:text=Logistic%20regression%20is%20a%20statistical,or%20more%20existing%20independent%20variables.
+Best LSTM optimizer (adam): https://deepdatascience.wordpress.com/2016/11/18/which-lstm-optimizer-to-use/
+LSTM explanation: https://www.youtube.com/watch?v=YCzL96nL7j0
+cut dataframe based on date: https://stackoverflow.com/questions/51065979/delete-rows-with-dates-before-the-required-date-point-based-on-key-value
+what is dropout: https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
+dense layers: https://analyticsindiamag.com/a-complete-understanding-of-dense-layers-in-neural-networks/
+Choosing hyperparameters for LSTM: https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046#:~:text=Generally%2C%202%20layers%20have%20shown,to%20find%20reasonably%20complex%20features.
+exploding/vanishing gradient problem
+Selecting LSTM batch size: https://medium.com/@canerkilinc/selecting-optimal-lstm-batch-size-63066d88b96b#:~:text=By%20experience%2C%20in%20most%20cases,based%20on%20the%20performance%20observation.
+batch size power of 2: https://wandb.ai/datenzauberai/Batch-Size-Testing/reports/Do-Batch-Sizes-Actually-Need-to-be-Powers-of-2---VmlldzoyMDkwNDQx
+keras documentation: https://keras.io/api/
+good article: https://adriangcoder.medium.com/a-review-of-dropout-as-applied-to-rnns-72e79ecd5b7b
+LSTM article: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+
+
+literature:
+logistic regression: https://ijecm.co.uk/wp-content/uploads/2016/06/4614.pdf
+
+quantile regression forest: https://uu.diva-portal.org/smash/get/diva2:1503760/FULLTEXT02.pdf
+

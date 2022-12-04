@@ -1,0 +1,32 @@
+Look into structure of LSTM 
+Using 100 data history to predict 50 days ahead 
+Change LSTM model 
+- Using 100 day history to predict 50 days ahead (may be wrong) 
+Predict only 1 or two days 
+
+Can add volume to LSTM model (what kind of info will we input for training)
+LSTM used to estimate related states of the sequence 
+
+
+Questions
+
+1 - Are we writing about each of our 3 models in each section of the writeup? For example in model training do we talk about all 3 models? 
+2 - You said that we cannot copy others' code, but I started from a basic LSTM guide that I found online, and worked with my own data, modifying from there.
+	- Is this okay? 
+3 - Since my 3 models are pretty different from one another, is it okay if I mainly focus on the one model that I spent the most time with for the presentation?
+	- IE breeze over the autoML and logistic regression models, and spend the majority of the presentation on lstm
+4 - Can paper have images? IE confusion matrices / stock chart forecasts etc 
+ 
+5- If one of our models is not performing well, is it okay to acknowledge that and move on to the next model? 
+6- why do you think 3 LSTMs would perform worse than one? 
+7 - why would my logistic regression always be predicting 1? 
+
+
+error metrics: 
+- mean squared error
+
+for modeling side, even graduate students take code from online 
+deployment looks good 
+
+homework issue was that people directly copied text from online for homework 2 / homework 3 
+not a small portion of people directly copied answers from online 
