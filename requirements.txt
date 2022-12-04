@@ -3,7 +3,7 @@ numpy
 scikit-learn
 tpot
 streamlit
-matplotlib
+matplotlib.pyplot
 tensorflow
 math
 datetime
