@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+tpot
+streamlit
+matplotlib
+tensorflow
+math
+datetime
+pandas_datareader
