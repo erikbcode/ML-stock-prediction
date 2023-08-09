@@ -20,8 +20,8 @@ Features
 ### Installation
 Clone this repository:
 
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/ebuinevicius/ML-stock-prediction.git
+cd ML-stock-prediction
 
 Install the required packages:
 
