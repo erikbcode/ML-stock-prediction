@@ -28,6 +28,7 @@ Install the required packages:
 pip install -r requirements.txt
 
 Run the application:
+
 Jupyter notebook should be used to run the notebooks within the notebooks directory to test and tweak various models.
 
 ### Usage
