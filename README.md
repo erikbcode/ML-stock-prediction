@@ -28,7 +28,7 @@ Install the required packages:
 pip install -r requirements.txt
 
 Run the application:
-Jupyter notebook should be used to run the notebooks within the notebooks directory.
+Jupyter notebook should be used to run the notebooks within the notebooks directory to test and tweak various models.
 
 ### Usage
 1. Load your stock data in the format sample_stock_data.csv.
