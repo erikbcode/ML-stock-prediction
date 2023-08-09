@@ -28,7 +28,7 @@ Install the required packages:
 pip install -r requirements.txt
 
 Run the application:
-python main.py
+Jupyter notebook should be used to run the notebooks within the notebooks directory.
 
 ### Usage
 1. Load your stock data in the format sample_stock_data.csv.
