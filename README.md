@@ -13,6 +13,7 @@ Features
 
 ## Getting Started
 ### Prerequisites
+
 - Python 3.8+ (It may work on older versions but this is the version it was tested on)
 - Relevant Python libraries (e.g. pandas, numpy, tensorflow, keras, sklearn)
 
