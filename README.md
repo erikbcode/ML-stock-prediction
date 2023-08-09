@@ -40,7 +40,7 @@ Models Included
 
 - LSTM (Long Short-Term Memory): A recurrent neural network used for sequence prediction problems.
 - Logistic Regression: Used primarily to predict the direction of stock price movement.
-- Classifiers: Predict stock price categories (e.g., bullish, bearish, neutral).
+- Classifiers: Predict stock price movements (e.g., up or down).
 
 
 This application is meant for educational purposes only. Predictions made by this tool should not be considered as financial advice. Always consult with a financial advisor before making any trading decisions.
