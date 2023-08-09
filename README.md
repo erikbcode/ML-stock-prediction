@@ -1,12 +1,12 @@
 # ML-stock-prediction
-ML Stock Prediction App
+## ML Stock Prediction App
 
 A project for CS 451 Data Science Course. This application forecasts stock prices using a myriad of Machine Learning models, leveraging historical stock prices, movements, VIX data, and more.
 Features
 
-    Forecast stock prices on various time horizons.
-    Uses models ranging from LSTM, Logistic Regression, to Classifiers.
-    Integrates a diverse set of data including:
+- Forecast stock prices on various time horizons.
+- Uses models ranging from LSTM, Logistic Regression, to Classifiers.
+- Integrates a diverse set of data including:
         VIX data
         Historical stock prices
         Stock movements
