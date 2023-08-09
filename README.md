@@ -27,15 +27,8 @@ Install the required packages:
 
 pip install -r requirements.txt
 
-Run the application:
-
-Jupyter notebook should be used to run the notebooks within the notebooks directory to test and tweak various models.
-
 ### Usage
-1. Load your stock data in the format sample_stock_data.csv.
-2. Adjust model and prediction parameters as desired in config.json.
-3. Run the app to train the models and forecast stock prices.
-4. View results in output/forecast_results.csv.
+Jupyter notebook should be used to run the notebooks within the notebooks directory to test and tweak various models.
 
 Models Included
 
